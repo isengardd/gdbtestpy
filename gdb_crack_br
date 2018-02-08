@@ -1,0 +1,15 @@
+break TestGdb.cpp:4
+  commands
+    p $AttachNewData(iVal)
+    c
+  end
+break TestGdb.cpp:27
+  commands
+    p $ClearData()
+    c
+  end
+break TestGdb.cpp:8
+  commands
+    p $DetachNewData(iVal)
+    c
+  end
