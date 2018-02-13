@@ -1,5 +1,5 @@
 # gdbtestpy<br> 
-### persional test for gdb </br> 
+### personal test for gdb </br> 
 ##### 测试GDB外接python脚本所写的代码，简单实现了几个自定义的`convenience function`.<br> 
 ##### [参考文章：](https://segmentfault.com/a/1190000005718889)https://segmentfault.com/a/1190000005718889<br> 
 ```
